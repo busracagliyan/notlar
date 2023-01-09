@@ -1,0 +1,2 @@
+# notlar
+takıldığım şeylerdeki notlar
