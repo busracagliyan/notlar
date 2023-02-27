@@ -1,5 +1,5 @@
 # notlar
-takıldığım şeylerdeki notlar
+takıldığım yerlerde aldığım notlar
 
 ## gnome boxes'da ping atma sorunu
 
